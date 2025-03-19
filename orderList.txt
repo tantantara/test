@@ -1,0 +1,31 @@
+
+Ali;0133521368;Cake;Red Velvet;10;3;Heehee
+Syarifah;01323513690;Cookie;Chocolate;3;Y;Chocolate chips
+Mawar;01934567801;Cake;Fresh Cream;1;2;Happy birthday myself
+Akmal;01678902355;Cake;Chocolate;1;2;Happy birthday mirmir<3
+Daniel;01789323510;Cookie;Oatmeal;3;N
+Wawa;01678102893;Cookie;Matcha;1;Y;Walnuts
+Sofea;01678912345;Cake;Chocolate;2;3;1st Anniversary^^
+Aireen;01125678901;Cake;Fresh Cream;1;2;Teme
+Hakimi;01224567889;Cookie;Matcha;2;Y;Almonds
+Benjamin;01899012347;Cookie;Oatmeal;1;N
+Arsya;01145689900;Cake;Red Velvet;5;5;It's a girl!
+Ilmi;01677234545;Cake;Chocolate;1;1;19th Birthday
+Omar;01245890011;Cookie;Matcha;10;Y;Chocolate chip
+Bunga;01933687124;Cake;Red Velvet;1;2;Happy Marriage, Laila!
+Feng;01988013562;Cookie;Chocolate;3;N
+Huamin;01222361839;Cake;Fresh Cream;1;1;Pretty Birthday
+Yuxuan;01789901121;Cookie;Oatmeal;2;N
+Qian;01780125661;Cookie;Matcha;2;Y;Walnuts
+Ishan;01299045621;Cake;Red Velvet;1;5;Happy Birthday Ma
+Anjali;01176455567;Cookie;Chocolate;2;N
+Saadah;01988026719;Cake;Fresh Cream;2;3;Noah Aqiqah Day
+Aiman;01766890123;Cookie;Chocolate;5;Y;Almonds
+Sasirekha;0177892234;Cookie;Matcha;1;N
+Yixin;01355678901;Cake;Red Velvet;1;2;123
+Tiffany;01890235671;Cake;Chocolate;1;5;-
+Khan;01678002234;Cookie;Oatmeal;3;Y;Walnuts
+Desi;01923778901;Cake;Fresh Cream;3;3;Cafe Opening
+Deva;01999882133;Cookie;Matcha;3;N
+Meiying;01345678899;Cake;Red Velvet;1;1;Happy Graduating!
+Quan;01822456718;Cookie;Chocolate;2;Y;Chocolate chip

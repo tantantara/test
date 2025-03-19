@@ -1,0 +1,279 @@
+
+Customer details   
+Customer Name    : Aiman
+Customer Number  : 01766890123
+Type             : Cookie
+Flavor           : Chocolate
+Quantity         : 5
+Add on           : Y
+Topping          : Almonds
+
+Customer details   
+Customer Name    : Ain
+Customer Number  : 0133375163
+Type             : Cake
+Flavor           : Red Velvet
+Quantity         : 3
+Amount of candle : 2
+Lettering        : Hai
+
+Customer details   
+Customer Name    : Aireen
+Customer Number  : 01125678901
+Type             : Cake
+Flavor           : Fresh Cream
+Quantity         : 1
+Amount of candle : 2
+Lettering        : Teme
+
+Customer details   
+Customer Name    : Akmal
+Customer Number  : 01678902355
+Type             : Cake
+Flavor           : Chocolate
+Quantity         : 1
+Amount of candle : 2
+Lettering        : Happy birthday mirmir<3
+
+Customer details   
+Customer Name    : Ali
+Customer Number  : 0133521368
+Type             : Cake
+Flavor           : Red Velvet
+Quantity         : 10
+Amount of candle : 3
+Lettering        : Heehee
+
+Customer details   
+Customer Name    : Anjali
+Customer Number  : 01176455567
+Type             : Cookie
+Flavor           : Chocolate
+Quantity         : 2
+Add on           : N
+Topping          : -
+
+Customer details   
+Customer Name    : Arsya
+Customer Number  : 01145689900
+Type             : Cake
+Flavor           : Red Velvet
+Quantity         : 5
+Amount of candle : 5
+Lettering        : It's a girl!
+
+Customer details   
+Customer Name    : Benjamin
+Customer Number  : 01899012347
+Type             : Cookie
+Flavor           : Oatmeal
+Quantity         : 1
+Add on           : N
+Topping          : -
+
+Customer details   
+Customer Name    : Bunga
+Customer Number  : 01933687124
+Type             : Cake
+Flavor           : Red Velvet
+Quantity         : 1
+Amount of candle : 2
+Lettering        : Happy Marriage, Laila!
+
+Customer details   
+Customer Name    : Daniel
+Customer Number  : 01789323510
+Type             : Cookie
+Flavor           : Oatmeal
+Quantity         : 3
+Add on           : N
+Topping          : -
+
+Customer details   
+Customer Name    : Desi
+Customer Number  : 01923778901
+Type             : Cake
+Flavor           : Fresh Cream
+Quantity         : 3
+Amount of candle : 3
+Lettering        : Cafe Opening
+
+Customer details   
+Customer Name    : Deva
+Customer Number  : 01999882133
+Type             : Cookie
+Flavor           : Matcha
+Quantity         : 3
+Add on           : N
+Topping          : -
+
+Customer details   
+Customer Name    : Feng
+Customer Number  : 01988013562
+Type             : Cookie
+Flavor           : Chocolate
+Quantity         : 3
+Add on           : N
+Topping          : -
+
+Customer details   
+Customer Name    : Hakimi
+Customer Number  : 01224567889
+Type             : Cookie
+Flavor           : Matcha
+Quantity         : 2
+Add on           : Y
+Topping          : Almonds
+
+Customer details   
+Customer Name    : Huamin
+Customer Number  : 01222361839
+Type             : Cake
+Flavor           : Fresh Cream
+Quantity         : 1
+Amount of candle : 1
+Lettering        : Pretty Birthday
+
+Customer details   
+Customer Name    : Ilmi
+Customer Number  : 01677234545
+Type             : Cake
+Flavor           : Chocolate
+Quantity         : 1
+Amount of candle : 1
+Lettering        : 19th Birthday
+
+Customer details   
+Customer Name    : Ishan
+Customer Number  : 01299045621
+Type             : Cake
+Flavor           : Red Velvet
+Quantity         : 1
+Amount of candle : 5
+Lettering        : Happy Birthday Ma
+
+Customer details   
+Customer Name    : Khan
+Customer Number  : 01678002234
+Type             : Cookie
+Flavor           : Oatmeal
+Quantity         : 3
+Add on           : Y
+Topping          : Walnuts
+
+Customer details   
+Customer Name    : Mawar
+Customer Number  : 01934567801
+Type             : Cake
+Flavor           : Fresh Cream
+Quantity         : 1
+Amount of candle : 2
+Lettering        : Happy birthday myself
+
+Customer details   
+Customer Name    : Meiying
+Customer Number  : 01345678899
+Type             : Cake
+Flavor           : Red Velvet
+Quantity         : 1
+Amount of candle : 1
+Lettering        : Happy Graduating!
+
+Customer details   
+Customer Name    : Omar
+Customer Number  : 01245890011
+Type             : Cookie
+Flavor           : Matcha
+Quantity         : 10
+Add on           : Y
+Topping          : Chocolate chip
+
+Customer details   
+Customer Name    : Qian
+Customer Number  : 01780125661
+Type             : Cookie
+Flavor           : Matcha
+Quantity         : 2
+Add on           : Y
+Topping          : Walnuts
+
+Customer details   
+Customer Name    : Quan
+Customer Number  : 01822456718
+Type             : Cookie
+Flavor           : Chocolate
+Quantity         : 2
+Add on           : Y
+Topping          : Walnuts
+
+Customer details   
+Customer Name    : Saadah
+Customer Number  : 01988026719
+Type             : Cake
+Flavor           : Fresh Cream
+Quantity         : 2
+Amount of candle : 3
+Lettering        : Noah Aqiqah Day
+
+Customer details   
+Customer Name    : Sasirekha
+Customer Number  : 0177892234
+Type             : Cookie
+Flavor           : Matcha
+Quantity         : 1
+Add on           : N
+Topping          : -
+
+Customer details   
+Customer Name    : Sofea
+Customer Number  : 01678912345
+Type             : Cake
+Flavor           : Chocolate
+Quantity         : 2
+Amount of candle : 3
+Lettering        : 1st Anniversary^^
+
+Customer details   
+Customer Name    : Syarifah
+Customer Number  : 01323513690
+Type             : Cookie
+Flavor           : Chocolate
+Quantity         : 3
+Add on           : Y
+Topping          : Chocolate chips
+
+Customer details   
+Customer Name    : Tiffany
+Customer Number  : 01890235671
+Type             : Cake
+Flavor           : Chocolate
+Quantity         : 1
+Amount of candle : 5
+Lettering        : -
+
+Customer details   
+Customer Name    : Wawa
+Customer Number  : 01678102893
+Type             : Cookie
+Flavor           : Matcha
+Quantity         : 1
+Add on           : Y
+Topping          : Walnuts
+
+Customer details   
+Customer Name    : Yixin
+Customer Number  : 01355678901
+Type             : Cake
+Flavor           : Red Velvet
+Quantity         : 1
+Amount of candle : 2
+Lettering        : 123
+
+Customer details   
+Customer Name    : Yuxuan
+Customer Number  : 01789901121
+Type             : Cookie
+Flavor           : Oatmeal
+Quantity         : 2
+Add on           : N
+Topping          : -

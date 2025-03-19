@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CookieOrder
+comment1.params=cust\ type\ flavor\ quantity\ addOn\ addType
+comment1.target=CookieOrder(Customer,\ java.lang.String,\ java.lang.String,\ int,\ char,\ java.lang.String)
+comment2.params=
+comment2.target=void\ setCookieOrder()
+comment3.params=
+comment3.target=char\ getAddOn()
+comment4.params=
+comment4.target=java.lang.String\ getAddType()
+comment5.params=addOn
+comment5.target=void\ setAddOn(char)
+comment6.params=addType
+comment6.target=void\ setAddType(java.lang.String)
+comment7.params=
+comment7.target=double\ calcTotal()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

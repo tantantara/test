@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\nCoder\:\ Roslan\ S,\ UiTM\ Pahang,\ roslancs@uitm.edu.my\r\nYear\:\ 2012\r\n
+comment1.params=
+comment1.target=Queue()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=element
+comment3.target=void\ enqueue(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ dequeue()
+comment5.params=
+comment5.target=int\ size()
+numComments=6
